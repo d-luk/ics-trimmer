@@ -4,7 +4,7 @@
     "name": "Duncan Lukkenaer"
   },
   "scripts": {
-    "start": "ts-node app.ts"
+    "start": "ts-node src/app.ts"
   },
   "dependencies": {
     "@date-fns/tz": "^1.1.2",
